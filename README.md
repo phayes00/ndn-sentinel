@@ -23,7 +23,7 @@ Organizations running Linux infrastructure spend thousands per month on compute 
 
 NDN Sentinel is a purpose-built Linux EDR agent that delivers real-time threat detection at a fraction of the resource cost. Designed for performance-sensitive infrastructure including GPU clouds, AI platforms, and high-compute environments.
 
-![NDN Sentinel Dashboard](assets/dashboard.png)
+![NDN Sentinel Dashboard](Screenshot%202026-03-09%20112515.png)
 
 ## Key Capabilities
 
